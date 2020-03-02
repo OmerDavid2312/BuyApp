@@ -7,19 +7,19 @@ The system created with HTML, CSS, BOOTSTRAP 4, JavaScript, PHP, SQL ,MYSQL Data
 <ul>
   <li>buy products</li>
   <li>Select categories to fit products that interest the buyer</li>
-<ul>
+</ul>
 <hr>
 <b>Seller</b>:
 <ul>
   <li>Sell products</li>
   <li>Accept bids from buyers</li>
   <li>Manage the products</li>
-<ul>
+</ul>
 <hr>
 <b>Admin</b>:
 <ul>
  <li>Admin panel to track statistics and manage the app</li>
-<ul>
+</ul>
 
   
 <br><br>
