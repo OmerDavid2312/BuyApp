@@ -7,6 +7,7 @@ The system created with HTML, CSS, BOOTSTRAP 4, JavaScript, PHP, SQL ,MYSQL Data
 <ul>
   <li>buy products</li>
   <li>Select categories to fit products that interest the buyer</li>
+  <li>Track the buyer's bids and accepted products</li>
 </ul>
 <hr>
 <b>Seller</b>:
@@ -14,6 +15,7 @@ The system created with HTML, CSS, BOOTSTRAP 4, JavaScript, PHP, SQL ,MYSQL Data
   <li>Sell products</li>
   <li>Accept bids from buyers</li>
   <li>Manage the products</li>
+  <li>Track products's sells</li>
 </ul>
 <hr>
 <b>Admin</b>:
