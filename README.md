@@ -1,9 +1,9 @@
 # BuyApp
 Brokerage system between sellers and buyers Based PHP & SQL.
 <hr>
-<b>Client Side:<b> HTML, CSS, BOOTSTRAP 4, JavaScript. <br>
-<b>Client Side:<b> PHP. <br>
-<b>Database:<b> MySQL<br>
+<b>Client Side:</b> HTML, CSS, BOOTSTRAP 4, JavaScript. <br>
+<b>Client Side:</b> PHP. <br>
+<b>Database:</b> MySQL<br>
 <hr>
 <b>Buyer</b>:
 <ul>
